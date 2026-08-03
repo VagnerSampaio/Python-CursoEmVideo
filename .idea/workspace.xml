@@ -5,13 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcef938-bd50-4f0d-a1e7-75bf49a427ef" name="Changes" comment="Python - Curso em Vídeo">
-      <change afterPath="$PROJECT_DIR$/aula21 - Funcoes 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22- Modulos e Pacotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22_modulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22_pacotes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22_pacotes/cores/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22_pacotes/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22_pacotes/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22_pacotes/strings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula23 - Tratando Erros e Excecoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex107/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex108/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex109/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex110/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/utilidadescev/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex114.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-CursoEmVideo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-CursoEmVideo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +81,7 @@
     "Python.Aula04.executor": "Run",
     "Python.Aula10 - Condicoes 1.executor": "Run",
     "Python.Ex072.executor": "Run",
+    "Python.__init__.executor": "Run",
     "Python.aula06.executor": "Run",
     "Python.aula07.executor": "Run",
     "Python.aula08 - Utilizando Modulos.executor": "Run",
@@ -76,6 +97,8 @@
     "Python.aula19 - Dicionarios.executor": "Run",
     "Python.aula20 - Funcoes 1.executor": "Run",
     "Python.aula21 - Funcoes 2.executor": "Run",
+    "Python.aula22 - Modulos e Pacotes.executor": "Run",
+    "Python.aula22- Modulos e Pacotes.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -181,6 +204,8 @@
     "Python.ex105.executor": "Run",
     "Python.ex106.executor": "Run",
     "Python.ex40.executor": "Run",
+    "Python.moeda.executor": "Run",
+    "Python.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -191,8 +216,10 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/vagne/PycharmProjects/Python-CursoEmVideo",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -203,11 +230,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vagne\PycharmProjects\Python-CursoEmVideo" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vagne\PycharmProjects\Python-CursoEmVideo\ex107" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
       </set>
     </attachedChunks>
   </component>
@@ -360,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785445944567</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Python - Curso em Vídeo">
+      <option name="closed" value="true" />
+      <created>1785583428709</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1785583428709</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
