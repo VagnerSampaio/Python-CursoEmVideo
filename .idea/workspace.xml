@@ -5,163 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcef938-bd50-4f0d-a1e7-75bf49a427ef" name="Changes" comment="Python - Curso em Vídeo">
-      <change afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex108/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex109/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex110/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex111/utilidadescev/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex112/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a23 - Tratando Erros e Excecoes/aula23 - Tratando Erros e Excecoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Investimentos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juros Simples e Compostos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula04 - Primeiros Comandos.py" beforeDir="false" afterPath="$PROJECT_DIR$/a04 - Primeiros Comandos/aula04 - Primeiros Comandos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06 - Tipos Primitivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/a06 - Tipos Primitivos/aula06 - Tipos Primitivos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07 - Operadores Aritmeticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/aula07 - Operadores Aritmeticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08 - Utilizando Modulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/aula08 - Utilizando Modulos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09 - Manipulando Textos.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/aula09 - Manipulando Textos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10 - Condicoes 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/aula10 - Condicoes 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula11 - Cores no Terminal.py" beforeDir="false" afterPath="$PROJECT_DIR$/a11 - Cores/aula11 - Cores no Terminal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12 - Condicoes Aninhadas.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/aula12 - Condicoes Aninhadas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13 - Estrutura de Repeticao FOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/aula13 - Estrutura de Repeticao FOR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14 - Estrutura de Repeticao WHILE.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/aula14 - Estrutura de Repeticao WHILE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15 - Interrompendo WHILE.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/aula15 - Interrompendo WHILE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16 - Tuplas.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/aula16 - Tuplas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17 - Listas 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/aula17 - Listas 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18 - Listas 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/aula18 - Listas 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19 - Dicionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/aula19 - Dicionarios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula20 - Funcoes 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/a20 - Funcoes 1/aula20 - Funcoes 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula21 - Funcoes 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/aula21 - Funcoes 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22- Modulos e Pacotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22- Modulos e Pacotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22_modulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22_modulos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22_pacotes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22_pacotes/cores/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22_pacotes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22_pacotes/datas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22_pacotes/cores/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22_pacotes/numeros/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22_pacotes/numeros/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula22_pacotes/strings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22_pacotes/datas/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula23 - Tratando Erros e Excecoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex107/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/a04 - Primeiros Comandos/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/a04 - Primeiros Comandos/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/a06 - Tipos Primitivos/ex003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/a06 - Tipos Primitivos/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/a07 - Operadores Aritmeticos/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/ex016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/ex017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/ex018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/ex019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/ex020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/a08 - Utilizando Modulos/ex021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/ex022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/ex023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/ex024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/ex025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/ex026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/a09 - Manipulando Textos/ex027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex030.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex031.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex034.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex035.py" beforeDir="false" afterPath="$PROJECT_DIR$/a10 - Condicoes 1/ex035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex040.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/a12 - Condicoes Aninhadas/ex045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex046.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex046.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex048.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex049.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex049.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/a13 - Repeticao FOR/ex056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex061.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex062.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex062.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex064.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex065.py" beforeDir="false" afterPath="$PROJECT_DIR$/a14 - Repeticao WHILE/ex065.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex066.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/ex066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex067.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/ex067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex068.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/ex068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex069.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/ex069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex070.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/ex070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex071.py" beforeDir="false" afterPath="$PROJECT_DIR$/a15 - Interrompendo WHILE/ex071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex072.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/ex072.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex073.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/ex073.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex074.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/ex074.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex075.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/ex075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/ex076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex077.py" beforeDir="false" afterPath="$PROJECT_DIR$/a16 - Tuplas/ex077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/ex078.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex079.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/ex079.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex080.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/ex080.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex081.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/ex081.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex082.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/ex082.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex083.py" beforeDir="false" afterPath="$PROJECT_DIR$/a17 - Listas 1/ex083.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex084.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/ex084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex085.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/ex085.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex086.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/ex086.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex087.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/ex087.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex088.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/ex088.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex089.py" beforeDir="false" afterPath="$PROJECT_DIR$/a18 - Listas 2/ex089.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex090.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/ex090.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex091.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/ex091.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex092.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/ex092.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex093.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/ex093.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex094.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/ex094.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/a19 - Dicionarios/ex095.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex096.py" beforeDir="false" afterPath="$PROJECT_DIR$/a20 - Funcoes 1/ex096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex097.py" beforeDir="false" afterPath="$PROJECT_DIR$/a20 - Funcoes 1/ex097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex098.py" beforeDir="false" afterPath="$PROJECT_DIR$/a20 - Funcoes 1/ex098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex099.py" beforeDir="false" afterPath="$PROJECT_DIR$/a20 - Funcoes 1/ex099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex100.py" beforeDir="false" afterPath="$PROJECT_DIR$/a20 - Funcoes 1/ex100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex101.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/ex101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex102.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/ex102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex103.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/ex103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex104.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/ex104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex105.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/ex105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex106.py" beforeDir="false" afterPath="$PROJECT_DIR$/a21 - Funcoes 2/ex106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex107/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex107/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex107/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex107/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex108/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex108/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex108/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex108/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex109/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex109/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex109/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex109/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex110/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex110/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex110/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex110/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex111/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/utilidadescev/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex111/utilidadescev/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/utilidadescev/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/aula22_pacotes/strings/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/utilidadescev/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex111/utilidadescev/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex112/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex112/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex112/utilidadescev/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex112/utilidadescev/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex112/utilidadescev/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/a22 - Pacotes e Modulos/ex112/utilidadescev/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metalica_senthil-metallica-289729.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/synclabmusic-rock-soft-397111.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,159 +48,163 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula10 - Condicoes 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula08 - Utilizando Modulos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula09 - Manipulando Textos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula11 - Cores no Terminal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula12 - Condicoes Aninhadas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13 - Estrutura de Repeticao FOR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula14 - Estrutura de Repeticao WHILE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula15 - interrompendo WHILE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16 - Tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17 - Listas 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18 - Listas 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19 - Dicionarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20 - Funcoes 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21 - Funcoes 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula22 - Modulos e Pacotes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula22- Modulos e Pacotes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex052.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex054.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex055.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex073.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex074.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex075.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex078.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex079.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex080.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex081.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex082.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex083.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex084.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex085.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex086.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex087.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex088.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex089.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex090.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex091.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex092.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex093.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex094.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex095.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex096.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex097.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex098.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex099.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex101.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex102.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex103.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex104.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex105.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex106.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex40.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moeda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vagne/PycharmProjects/Python-CursoEmVideo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.077.executor": "Run",
+    "Python.Aula04.executor": "Run",
+    "Python.Aula10 - Condicoes 1.executor": "Run",
+    "Python.Ex072.executor": "Run",
+    "Python.Investimentos.executor": "Run",
+    "Python.Juros Simples e Compostos.executor": "Run",
+    "Python.JurosCompostos.executor": "Run",
+    "Python.JurosCompostosFacil.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.aula06.executor": "Run",
+    "Python.aula07.executor": "Run",
+    "Python.aula08 - Utilizando Modulos.executor": "Run",
+    "Python.aula09 - Manipulando Textos.executor": "Run",
+    "Python.aula11 - Cores no Terminal.executor": "Run",
+    "Python.aula12 - Condicoes Aninhadas.executor": "Run",
+    "Python.aula13 - Estrutura de Repeticao FOR.executor": "Run",
+    "Python.aula14 - Estrutura de Repeticao WHILE.executor": "Run",
+    "Python.aula15 - interrompendo WHILE.executor": "Run",
+    "Python.aula16 - Tuplas.executor": "Run",
+    "Python.aula17 - Listas 1.executor": "Run",
+    "Python.aula18 - Listas 2.executor": "Run",
+    "Python.aula19 - Dicionarios.executor": "Run",
+    "Python.aula20 - Funcoes 1.executor": "Run",
+    "Python.aula21 - Funcoes 2.executor": "Run",
+    "Python.aula22 - Modulos e Pacotes.executor": "Run",
+    "Python.aula22- Modulos e Pacotes.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex01.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex083.executor": "Run",
+    "Python.ex084.executor": "Run",
+    "Python.ex085.executor": "Run",
+    "Python.ex086.executor": "Run",
+    "Python.ex087.executor": "Run",
+    "Python.ex088.executor": "Run",
+    "Python.ex089.executor": "Run",
+    "Python.ex090.executor": "Run",
+    "Python.ex091.executor": "Run",
+    "Python.ex092.executor": "Run",
+    "Python.ex093.executor": "Run",
+    "Python.ex094.executor": "Run",
+    "Python.ex095.executor": "Run",
+    "Python.ex096.executor": "Run",
+    "Python.ex097.executor": "Run",
+    "Python.ex098.executor": "Run",
+    "Python.ex099.executor": "Run",
+    "Python.ex100.executor": "Run",
+    "Python.ex101.executor": "Run",
+    "Python.ex102.executor": "Run",
+    "Python.ex103.executor": "Run",
+    "Python.ex104.executor": "Run",
+    "Python.ex105.executor": "Run",
+    "Python.ex106.executor": "Run",
+    "Python.ex40.executor": "Run",
+    "Python.moeda.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vagne/PycharmProjects/Python-CursoEmVideo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vagne\PycharmProjects\Python-CursoEmVideo" />
@@ -539,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785786448647</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Python - Curso em Vídeo">
+      <option name="closed" value="true" />
+      <created>1785975182345</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1785975182345</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
